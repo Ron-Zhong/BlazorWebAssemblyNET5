@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyNET5.Server", "Server\BlazorWebAssemblyNET5.Server.csproj", "{08461F15-C819-4A78-BFD9-75A168A52088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyNET5.Server", "Server\BlazorWebAssemblyNET5.Server.csproj", "{08461F15-C819-4A78-BFD9-75A168A52088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyNET5.Client", "Client\BlazorWebAssemblyNET5.Client.csproj", "{79B0E37F-4647-4780-B156-945BBA3434F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyNET5.Client", "Client\BlazorWebAssemblyNET5.Client.csproj", "{79B0E37F-4647-4780-B156-945BBA3434F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyNET5.Shared", "Shared\BlazorWebAssemblyNET5.Shared.csproj", "{1833BB8C-ED4F-4F7A-AF8E-7FC7752D6B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyNET5.Shared", "Shared\BlazorWebAssemblyNET5.Shared.csproj", "{1833BB8C-ED4F-4F7A-AF8E-7FC7752D6B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
